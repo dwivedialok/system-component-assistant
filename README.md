@@ -36,11 +36,12 @@ Required packages include:
 
 3. Create a configuration file named `.7ytrepmnt` with the following environment variables:
 
-env:README.md
+
+```env
 OPENAI_API_KEY=your_openai_api_key
 GITHUB_TOKEN=your_github_token
 QDRANT_HOST_URL=your_qdrant_host_url
-
+```
 
 ## Usage
 
